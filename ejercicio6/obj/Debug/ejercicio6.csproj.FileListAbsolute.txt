@@ -1,0 +1,36 @@
+c:\users\programadorit\documents\visual studio 2017\Projects\ejercicio6\ejercicio6\bin\Debug\ejercicio6.exe.config
+c:\users\programadorit\documents\visual studio 2017\Projects\ejercicio6\ejercicio6\bin\Debug\ejercicio6.exe
+c:\users\programadorit\documents\visual studio 2017\Projects\ejercicio6\ejercicio6\bin\Debug\ejercicio6.pdb
+c:\users\programadorit\documents\visual studio 2017\Projects\ejercicio6\ejercicio6\obj\Debug\ejercicio6.csprojResolveAssemblyReference.cache
+c:\users\programadorit\documents\visual studio 2017\Projects\ejercicio6\ejercicio6\obj\Debug\ejercicio6.Form1.resources
+c:\users\programadorit\documents\visual studio 2017\Projects\ejercicio6\ejercicio6\obj\Debug\ejercicio6.Properties.Resources.resources
+c:\users\programadorit\documents\visual studio 2017\Projects\ejercicio6\ejercicio6\obj\Debug\ejercicio6.csproj.GenerateResource.Cache
+c:\users\programadorit\documents\visual studio 2017\Projects\ejercicio6\ejercicio6\obj\Debug\ejercicio6.exe
+c:\users\programadorit\documents\visual studio 2017\Projects\ejercicio6\ejercicio6\obj\Debug\ejercicio6.pdb
+H:\YHON\ejercicio6\ejercicio6\bin\Debug\ejercicio6.exe.config
+H:\YHON\ejercicio6\ejercicio6\bin\Debug\ejercicio6.exe
+H:\YHON\ejercicio6\ejercicio6\bin\Debug\ejercicio6.pdb
+H:\YHON\ejercicio6\ejercicio6\obj\Debug\ejercicio6.csprojResolveAssemblyReference.cache
+H:\YHON\ejercicio6\ejercicio6\obj\Debug\ejercicio6.Form1.resources
+H:\YHON\ejercicio6\ejercicio6\obj\Debug\ejercicio6.Properties.Resources.resources
+H:\YHON\ejercicio6\ejercicio6\obj\Debug\ejercicio6.csproj.GenerateResource.Cache
+H:\YHON\ejercicio6\ejercicio6\obj\Debug\ejercicio6.exe
+H:\YHON\ejercicio6\ejercicio6\obj\Debug\ejercicio6.pdb
+H:\YHON\ejercicio6\ejercicio6\obj\Debug\ejercicio6.Form2.resources
+H:\YHON\ejercicio6\ejercicio6\obj\Debug\ejercicio6.vectoresTaller.resources
+F:\ejercicio6\ejercicio6\bin\Debug\ejercicio6.exe.config
+F:\ejercicio6\ejercicio6\bin\Debug\ejercicio6.exe
+F:\ejercicio6\ejercicio6\bin\Debug\ejercicio6.pdb
+F:\ejercicio6\ejercicio6\obj\Debug\ejercicio6.csprojResolveAssemblyReference.cache
+F:\ejercicio6\ejercicio6\obj\Debug\ejercicio6.Form1.resources
+F:\ejercicio6\ejercicio6\obj\Debug\ejercicio6.Form2.resources
+F:\ejercicio6\ejercicio6\obj\Debug\ejercicio6.Properties.Resources.resources
+F:\ejercicio6\ejercicio6\obj\Debug\ejercicio6.vectoresTaller.resources
+F:\ejercicio6\ejercicio6\obj\Debug\ejercicio6.csproj.GenerateResource.cache
+F:\ejercicio6\ejercicio6\obj\Debug\ejercicio6.csproj.CoreCompileInputs.cache
+F:\ejercicio6\ejercicio6\obj\Debug\ejercicio6.exe
+F:\ejercicio6\ejercicio6\obj\Debug\ejercicio6.pdb
+H:\YHON\ejercicio6\ejercicio6\obj\Debug\ejercicio6.Matriz.resources
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\ejercicio6\ejercicio6\bin\Debug\ejercicio6.exe.config
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\ejercicio6\ejercicio6\obj\Debug\ejercicio6.exe
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\ejercicio6\ejercicio6\obj\Debug\ejercicio6.pdb
